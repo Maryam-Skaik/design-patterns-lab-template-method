@@ -13,7 +13,7 @@ This repository accompanies the lecture on the **Template Method Pattern**, focu
 
 ▶️ Watch on YouTube:  
 
-[Lecture Video](#)
+[Lecture Video](https://youtu.be/steUzN2jsbQ)
 
 ---
 

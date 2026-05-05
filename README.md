@@ -7,6 +7,16 @@
 
 ---
 
+## 🎥 Lecture Video
+
+This repository accompanies the lecture on the **Template Method Pattern**, focusing on real-world workflow-based systems.
+
+▶️ Watch on YouTube:  
+
+[Lecture Video](#)
+
+---
+
 ## 🧠 Overview
 
 The **Template Method Pattern** is a behavioral design pattern that defines the **skeleton of an algorithm in a base class**, while allowing subclasses to customize specific steps without changing the overall structure.

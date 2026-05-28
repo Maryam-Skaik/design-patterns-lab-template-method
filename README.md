@@ -1,7 +1,9 @@
-# 🎯 Template Method Design Pattern (Java)
+# 🎯 Design Patterns Lab — Template Method Pattern
 
 ![Java](https://img.shields.io/badge/Language-Java-blue.svg)
-![Pattern](https://img.shields.io/badge/Design%20Pattern-Behavioral-green.svg)
+![Category](https://img.shields.io/badge/Design%20Pattern-Behavioral-red.svg)
+![Pattern](https://img.shields.io/badge/Pattern-TemplateMethod-pink)
+![Week](https://img.shields.io/badge/Week-7-green)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-orange.svg)
 ![Focus](https://img.shields.io/badge/Focus-OOP%20%26%20Design%20Thinking-purple.svg)
 
@@ -203,6 +205,33 @@ Design a system where all patient records follow the same workflow:
 
 ### Optional Extension:
 - Add Pediatric Department with specialized evaluation rules
+
+---
+
+## 💾 Solutions
+
+📁 [`solutions/`](solutions/)
+
+All activity solutions are available inside the `/solutions` folder.
+
+Each solution includes:
+
+* UML diagrams and design explanation
+* Clean and well-structured Java implementation
+* Notes about relationships and design decisions
+* Fixed workflow explanation using Template Method Pattern
+* Step customization behavior per department
+* Example usage through `Main.java`
+
+---
+
+### Included Solutions
+
+* 🏥 Smart Hospital Patient Processing System
+
+---
+
+> Students are encouraged to complete the activities independently first, then use the provided solutions to compare implementations, understand design decisions, and explore alternative approaches.
 
 ---
 
